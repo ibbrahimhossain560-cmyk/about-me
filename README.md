@@ -1,0 +1,1 @@
+a full next js web  about me
